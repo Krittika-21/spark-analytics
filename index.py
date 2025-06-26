@@ -36,7 +36,7 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib import colors
 from reportlab.lib.units import inch
 
-data_file_path = "processed_data_rescat.csv"
+data_file_path = "Additional Files (Documentation, data, etc.)/processed_data_rescat.csv"
 
 data_processed = pd.read_csv(data_file_path)
 
