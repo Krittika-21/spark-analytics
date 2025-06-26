@@ -36,7 +36,7 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib import colors
 from reportlab.lib.units import inch
 
-data_file_path = "C:/Users/kritt/Desktop/ST Logistics/Spark Project/Plotly-Dash/Additional Files (Documentation, data, etc.)/processed_data_rescat.csv"
+data_file_path = "processed_data_rescat.csv"
 
 data_processed = pd.read_csv(data_file_path)
 
@@ -92,12 +92,12 @@ current_sgt_date_str = datetime.now(sgt).strftime("%B %d %Y , %I:%M %p")
 # VENDOR DATA PREP
 
 # Load SAP country code to name mapping from CSV
-sap_country_csv = "C:/Users/kritt/Desktop/ST Logistics/Spark Project/Plotly-Dash/Additional Files (Documentation, data, etc.)/Country_Codes-export.csv"
+sap_country_csv = "Country_Codes-export.csv"
 sap_country_df = pd.read_csv(sap_country_csv)
 sap_country_map = dict(zip(sap_country_df['Country Code'].str.strip(), sap_country_df['Country/Region'].str.strip()))
 
 # Load vendor data
-vendor_file = "C:/Users/kritt/Desktop/ST Logistics/Spark Project/Plotly-Dash/Additional Files (Documentation, data, etc.)/acra_vendor_with_addresss.xlsx"
+vendor_file = "acra_vendor_with_addresss.xlsx"
 vendor_df = pd.read_excel(vendor_file)
 
 # Filter and assign tiers based on Total Net Order Value
@@ -980,7 +980,7 @@ def create_map_legends():
 def load_geocode_cache():
     """Load the geocode cache from JSON file"""
     try:
-        cache_file_path = "C:/Users/kritt/Desktop/ST Logistics/Spark Project/Plotly-Dash/Additional Files (Documentation, data, etc.)/geocode_cache.json"
+        cache_file_path = "geocode_cache.json"
         print(f"Attempting to load cache from: {cache_file_path}")
         
         with open(cache_file_path, 'r', encoding='utf-8') as f:
