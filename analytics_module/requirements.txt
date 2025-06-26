@@ -1,0 +1,13 @@
+dash==2.14.1
+dash-bootstrap-components==1.4.2
+dash-leaflet==0.1.23
+plotly==5.17.0
+pandas==2.1.1
+numpy==1.24.3
+pytz==2023.3
+pycountry==22.9.6
+geopandas==0.14.0
+geopy==2.4.0
+requests==2.31.0
+gunicorn==21.2.0
+openpyxl==3.1.2
