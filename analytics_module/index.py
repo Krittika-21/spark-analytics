@@ -2298,5 +2298,6 @@ def export_pdf(n_clicks):
             return dict(content=encoded_pdf, filename="vendor_event_mapping_report.pdf", base64=True)
     return dash.no_update
 
+server = app.server()
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=False, host='0.0.0.0', port=8050)
