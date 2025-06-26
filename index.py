@@ -97,7 +97,7 @@ sap_country_df = pd.read_csv(sap_country_csv)
 sap_country_map = dict(zip(sap_country_df['Country Code'].str.strip(), sap_country_df['Country/Region'].str.strip()))
 
 # Load vendor data
-vendor_file = "acra_vendor_with_addresss.xlsx"
+vendor_file = "Additional Files (Documentation, data, etc.)/acra_vendor_with_addresss.xlsx"
 vendor_df = pd.read_excel(vendor_file)
 
 # Filter and assign tiers based on Total Net Order Value
