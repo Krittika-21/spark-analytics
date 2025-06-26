@@ -980,7 +980,7 @@ def create_map_legends():
 def load_geocode_cache():
     """Load the geocode cache from JSON file"""
     try:
-        cache_file_path = "geocode_cache.json"
+        cache_file_path = "Additional Files (Documentation, data, etc.)/geocode_cache.json"
         print(f"Attempting to load cache from: {cache_file_path}")
         
         with open(cache_file_path, 'r', encoding='utf-8') as f:
