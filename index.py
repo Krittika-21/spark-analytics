@@ -92,7 +92,7 @@ current_sgt_date_str = datetime.now(sgt).strftime("%B %d %Y , %I:%M %p")
 # VENDOR DATA PREP
 
 # Load SAP country code to name mapping from CSV
-sap_country_csv = "Country_Codes-export.csv"
+sap_country_csv = "Additional Files (Documentation, data, etc.)/Country_Codes-export.csv"
 sap_country_df = pd.read_csv(sap_country_csv)
 sap_country_map = dict(zip(sap_country_df['Country Code'].str.strip(), sap_country_df['Country/Region'].str.strip()))
 
