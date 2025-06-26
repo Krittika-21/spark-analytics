@@ -1,0 +1,1349 @@
+{
+  "New York": {
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  "Sweden": {
+    "lat": 59.6749712,
+    "lon": 14.5208584
+  },
+  "Dubai": {
+    "lat": 25.0742823,
+    "lon": 55.1885387
+  },
+  "United States": {
+    "lat": 39.7837304,
+    "lon": -100.445882
+  },
+  "Riyadh": {
+    "lat": 18.0107143,
+    "lon": -15.955326
+  },
+  "United Kingdom": {
+    "lat": 54.7023545,
+    "lon": -3.2765753
+  },
+  "Abu Dhabi": {
+    "lat": 24.4538352,
+    "lon": 54.3774014
+  },
+  "Ukraine": {
+    "lat": 49.4871968,
+    "lon": 31.2718321
+  },
+  "East and Southeast Asia": {
+    "lat": 13.1461599,
+    "lon": 123.7413343
+  },
+  "Los Angeles": {
+    "lat": 34.0536909,
+    "lon": -118.242766
+  },
+  "Stockholm": {
+    "lat": 59.3251172,
+    "lon": 18.0710935
+  },
+  "Pakistan": {
+    "lat": 30.3308401,
+    "lon": 71.247499
+  },
+  "European Union": {
+    "lat": 42.6795963,
+    "lon": 23.3214829
+  },
+  "Moscow": {
+    "lat": 55.625578,
+    "lon": 37.6063916
+  },
+  "India": {
+    "lat": 22.3511148,
+    "lon": 78.6677428
+  },
+  "Russia": {
+    "lat": 64.6863136,
+    "lon": 97.7453061
+  },
+  "Greenland": {
+    "lat": 43.0361995,
+    "lon": -70.8328322
+  },
+  "Vatican City": {
+    "lat": 41.9034912,
+    "lon": 12.4528349
+  },
+  "Brussels": {
+    "lat": 50.8465573,
+    "lon": 4.351697
+  },
+  "Punjab province": {
+    "lat": 39.6200552,
+    "lon": -0.3073296
+  },
+  "Panama City": {
+    "lat": 30.1586518,
+    "lon": -85.6602936
+  },
+  "Kazakhstan": {
+    "lat": 48.1012954,
+    "lon": 66.7780818
+  },
+  "Slovakia": {
+    "lat": 48.7411522,
+    "lon": 19.4528646
+  },
+  "England": {
+    "lat": 52.5310214,
+    "lon": -1.2649062
+  },
+  "Northern Hemisphere": null,
+  "Minnesota": {
+    "lat": 45.9896587,
+    "lon": -94.6113288
+  },
+  "Texas": {
+    "lat": 31.2638905,
+    "lon": -98.5456116
+  },
+  "Florida": {
+    "lat": 27.7567667,
+    "lon": -81.4639835
+  },
+  "Washington": {
+    "lat": 38.8950368,
+    "lon": -77.0365427
+  },
+  "Central Africa": {
+    "lat": -25.3579401,
+    "lon": -57.5835295
+  },
+  "Lubbock": {
+    "lat": 33.5855677,
+    "lon": -101.8470215
+  },
+  "Toronto": {
+    "lat": 43.6534817,
+    "lon": -79.3839347
+  },
+  "Wuhan": {
+    "lat": 30.5951051,
+    "lon": 114.2999353
+  },
+  "Melbourne": {
+    "lat": -37.8142454,
+    "lon": 144.9631732
+  },
+  "New Mexico": {
+    "lat": 34.5802074,
+    "lon": -105.996047
+  },
+  "Kampala": {
+    "lat": 0.3177137,
+    "lon": 32.5813539
+  },
+  "Salt Lake City": {
+    "lat": 40.7596198,
+    "lon": -111.886797
+  },
+  "London": {
+    "lat": 51.4893335,
+    "lon": -0.1440551
+  },
+  "California": {
+    "lat": 36.7014631,
+    "lon": -118.755997
+  },
+  "Japan": {
+    "lat": 36.5748441,
+    "lon": 139.2394179
+  },
+  "China": {
+    "lat": 35.0000663,
+    "lon": 104.999955
+  },
+  "Ontario": {
+    "lat": 50.000678,
+    "lon": -86.000977
+  },
+  "Jammu and Kashmir": {
+    "lat": 33.6649297,
+    "lon": 75.1629584
+  },
+  "Turkey": {
+    "lat": 39.294076,
+    "lon": 35.2316631
+  },
+  "Kashmir": {
+    "lat": 26.2644203,
+    "lon": 71.6027498
+  },
+  "South West Rocks": {
+    "lat": -30.8943859,
+    "lon": 153.040677
+  },
+  "Islamabad": {
+    "lat": 33.6938118,
+    "lon": 73.0651511
+  },
+  "eastern Ukraine": {
+    "lat": 48.2066398,
+    "lon": 22.6420666
+  },
+  "Syria": {
+    "lat": 34.8147886,
+    "lon": 38.4231781
+  },
+  "Saudi Arabia": {
+    "lat": 24.217621,
+    "lon": 44.3222148
+  },
+  "Warsaw": {
+    "lat": 52.2337172,
+    "lon": 21.0714322
+  },
+  "Istanbul": {
+    "lat": 41.006381,
+    "lon": 28.9758715
+  },
+  "Tasmania": {
+    "lat": -42.035067,
+    "lon": 146.6366887
+  },
+  "Washington D.C.": {
+    "lat": 38.8950368,
+    "lon": -77.0365427
+  },
+  "Iran": {
+    "lat": 32.6475314,
+    "lon": 54.5643516
+  },
+  "Bermel Giorgis well": null,
+  "Columbus": {
+    "lat": 39.9622601,
+    "lon": -83.0007065
+  },
+  "Gaza Strip": {
+    "lat": -37.7137478,
+    "lon": 145.0748898
+  },
+  "Montevideo": {
+    "lat": -34.9058916,
+    "lon": -56.1913095
+  },
+  "Gaza": {
+    "lat": -23.328398,
+    "lon": 32.8066057
+  },
+  "Rome": {
+    "lat": 41.8933203,
+    "lon": 12.4829321
+  },
+  "Ankara": {
+    "lat": 39.9207759,
+    "lon": 32.8540497
+  },
+  "India-Pakistan border": {
+    "lat": 31.6236655,
+    "lon": 74.8793363
+  },
+  "Hrabove": {
+    "lat": 48.1482659,
+    "lon": 38.6482653
+  },
+  "Milwaukee": {
+    "lat": 43.0386475,
+    "lon": -87.9090751
+  },
+  "Omaha": {
+    "lat": 41.2587459,
+    "lon": -95.9383758
+  },
+  "Port Charlotte": {
+    "lat": 26.9761707,
+    "lon": -82.0906448
+  },
+  "Westernport": {
+    "lat": 39.4854732,
+    "lon": -79.0446881
+  },
+  "Tijuana": {
+    "lat": 32.5317397,
+    "lon": -117.019529
+  },
+  "New Orleans": {
+    "lat": 29.9759983,
+    "lon": -90.0782127
+  },
+  "Newark": {
+    "lat": 40.735657,
+    "lon": -74.1723667
+  },
+  "Pennsylvania": {
+    "lat": 40.9699889,
+    "lon": -77.7278831
+  },
+  "North Cascades": {
+    "lat": 30.4618313,
+    "lon": -97.6180192
+  },
+  "northeast Minnesota": {
+    "lat": 45.0157576,
+    "lon": -93.2512895
+  },
+  "Canton": {
+    "lat": 40.7985464,
+    "lon": -81.3749508
+  },
+  "Honduras": {
+    "lat": 15.2572432,
+    "lon": -86.0755145
+  },
+  "Rikers Island": {
+    "lat": 40.7919318,
+    "lon": -73.8834937
+  },
+  "Philadelphia": {
+    "lat": 39.9527237,
+    "lon": -75.1635262
+  },
+  "Chicago": {
+    "lat": 41.8755616,
+    "lon": -87.6244212
+  },
+  "West Baltimore": {
+    "lat": 39.2933208,
+    "lon": -76.6531881
+  },
+  "southern Mexico": {
+    "lat": 32.3259679,
+    "lon": -106.7245474
+  },
+  "San Francisco": {
+    "lat": 37.7792588,
+    "lon": -122.4193286
+  },
+  "New Jersey": {
+    "lat": 40.0757384,
+    "lon": -74.4041622
+  },
+  "Burgess Shale": {
+    "lat": 51.4404318,
+    "lon": -116.5420142
+  },
+  "Kennedy Space Center": {
+    "lat": 28.5242796,
+    "lon": -80.6818558
+  },
+  "Jupiter": {
+    "lat": 26.9342246,
+    "lon": -80.0942087
+  },
+  "Indian Ocean": {
+    "lat": -9.9999999,
+    "lon": 69.9999999
+  },
+  "south polar region of the moon": null,
+  "Geneva": {
+    "lat": 46.2017559,
+    "lon": 6.1466014
+  },
+  "Mars": {
+    "lat": 45.022172,
+    "lon": 4.3221548
+  },
+  "Siziwang Banner": {
+    "lat": 42.2782913,
+    "lon": 111.6324324
+  },
+  "Sun": {
+    "lat": 48.0368188,
+    "lon": -4.8510835
+  },
+  "Nashville": {
+    "lat": 36.1622767,
+    "lon": -86.7742984
+  },
+  "Arctic": {
+    "lat": 25.2291463,
+    "lon": 55.1385759
+  },
+  "Menlo Park": {
+    "lat": 37.4519671,
+    "lon": -122.177992
+  },
+  "Georgia": {
+    "lat": 32.3293809,
+    "lon": -83.1137366
+  },
+  "Argentina": {
+    "lat": -34.9964963,
+    "lon": -64.9672817
+  },
+  "Daejeon": {
+    "lat": 36.3497007,
+    "lon": 127.3849016
+  },
+  "South Dakota": {
+    "lat": 44.6471761,
+    "lon": -100.348761
+  },
+  "International Space Station": {
+    "lat": 45.0799046,
+    "lon": 7.5990066
+  },
+  "East Antarctica": {
+    "lat": -80.0,
+    "lon": 90.0
+  },
+  "NASA Jet Propulsion Laboratory": {
+    "lat": 34.2015125,
+    "lon": -118.1729785
+  },
+  "Mercury": {
+    "lat": 45.6753463,
+    "lon": 6.3360129
+  },
+  "Mandalay": {
+    "lat": 21.9596834,
+    "lon": 96.0948743
+  },
+  "Montana": {
+    "lat": 47.3752671,
+    "lon": -109.638757
+  },
+  "Denmark": {
+    "lat": 55.670249,
+    "lon": 10.3333283
+  },
+  "Calgary": {
+    "lat": 51.0456064,
+    "lon": -114.057541
+  },
+  "Low Earth orbit": null,
+  "Coahuila": {
+    "lat": 27.3333331,
+    "lon": -102.0000001
+  },
+  "Western Australia": {
+    "lat": -25.2303005,
+    "lon": 121.0187246
+  },
+  "Berlin": {
+    "lat": 52.510885,
+    "lon": 13.3989367
+  },
+  "Oldenburg": {
+    "lat": 53.1389753,
+    "lon": 8.2146017
+  },
+  "Bayreuth": {
+    "lat": 49.9449711,
+    "lon": 11.5734327
+  },
+  "Earth orbit": null,
+  "Austin": {
+    "lat": 30.2711286,
+    "lon": -97.7436995
+  },
+  "Gale Crater": null,
+  "Central California coast": {
+    "lat": 37.2578228,
+    "lon": -121.7836053
+  },
+  "Sydney": {
+    "lat": -33.8698439,
+    "lon": 151.2082848
+  },
+  "Victoria": {
+    "lat": -36.5986096,
+    "lon": 144.6780052
+  },
+  "Cambridge": {
+    "lat": 52.2055314,
+    "lon": 0.1186637
+  },
+  "Durham": {
+    "lat": 54.666667,
+    "lon": -1.75
+  },
+  "Earth": {
+    "lat": 34.2331373,
+    "lon": -102.4107493
+  },
+  "Grand Traverse Bay": {
+    "lat": 44.9795747,
+    "lon": -85.5516415
+  },
+  "Milky Way Galactic Center": null,
+  "Finland": {
+    "lat": 63.2467777,
+    "lon": 25.9209164
+  },
+  "Dallas-Fort Worth": {
+    "lat": 32.8965194,
+    "lon": -97.0465221
+  },
+  "Williston": {
+    "lat": 48.1465457,
+    "lon": -103.621814
+  },
+  "New York City": {
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  "King County": {
+    "lat": 33.588178,
+    "lon": -100.2178972
+  },
+  "Binghamton": {
+    "lat": 42.098698,
+    "lon": -75.9125187
+  },
+  "Boston": {
+    "lat": 42.3554334,
+    "lon": -71.060511
+  },
+  "South Korea": {
+    "lat": 36.638392,
+    "lon": 127.6961188
+  },
+  "France": {
+    "lat": 46.603354,
+    "lon": 1.8883335
+  },
+  "Baltimore": {
+    "lat": 39.2908816,
+    "lon": -76.610759
+  },
+  "Edinburgh": {
+    "lat": 55.9533456,
+    "lon": -3.1883749
+  },
+  "Derwood": {
+    "lat": 39.114202,
+    "lon": -77.149509
+  },
+  "Messel Pit": {
+    "lat": 49.9178825,
+    "lon": 8.7586662
+  },
+  "Utah": {
+    "lat": 39.4225192,
+    "lon": -111.714358
+  },
+  "Franklin": {
+    "lat": 33.2002659,
+    "lon": -95.2231752
+  },
+  "Orlando": {
+    "lat": 28.5421109,
+    "lon": -81.3790304
+  },
+  "Canada": {
+    "lat": 61.0666922,
+    "lon": -107.991707
+  },
+  "Washington DC": {
+    "lat": 38.8950368,
+    "lon": -77.0365427
+  },
+  "Shenzhen": {
+    "lat": 22.5445741,
+    "lon": 114.0545429
+  },
+  "Stanford": {
+    "lat": 37.4265407,
+    "lon": -122.1703055
+  },
+  "Yarumal": {
+    "lat": 6.9625927,
+    "lon": -75.4165529
+  },
+  "Le Mars": {
+    "lat": 42.792151,
+    "lon": -96.1662993
+  },
+  "Zurich": {
+    "lat": 47.3744489,
+    "lon": 8.5410422
+  },
+  "Buenos Aires": {
+    "lat": -34.6083696,
+    "lon": -58.4440583
+  },
+  "Gainesville": {
+    "lat": 29.6519684,
+    "lon": -82.3249846
+  },
+  "Baltic Sea": {
+    "lat": 56.0,
+    "lon": 18.0
+  },
+  "Bucharest": {
+    "lat": 44.4361414,
+    "lon": 26.1027202
+  },
+  "Doha": {
+    "lat": 25.2856329,
+    "lon": 51.5264162
+  },
+  "southwest England": {
+    "lat": 42.0909189,
+    "lon": -91.8747603
+  },
+  "Massachusetts": {
+    "lat": 42.3788774,
+    "lon": -72.032366
+  },
+  "Tsukuba": {
+    "lat": 36.0833265,
+    "lon": 140.077279
+  },
+  "Ventana Wilderness": {
+    "lat": 36.1637099,
+    "lon": -121.3954965
+  },
+  "Svobodny": {
+    "lat": 51.377354,
+    "lon": 128.13475
+  },
+  "Bass Strait": {
+    "lat": -39.4730144,
+    "lon": 145.2623668
+  },
+  "Titan": {
+    "lat": 13.0718794,
+    "lon": 77.5560732
+  },
+  "Iowa": {
+    "lat": 41.9216734,
+    "lon": -93.3122705
+  },
+  "continental United States": {
+    "lat": 31.8504584,
+    "lon": -110.9737375
+  },
+  "Gulf Shores": {
+    "lat": 30.2711224,
+    "lon": -87.6893826
+  },
+  "Amherst": {
+    "lat": 42.3731948,
+    "lon": -72.5198761
+  },
+  "Taiwan": {
+    "lat": 23.5983227,
+    "lon": 120.8353769
+  },
+  "Amazon": {
+    "lat": -3.095174,
+    "lon": -58.2766172
+  },
+  "Fife": {
+    "lat": 56.3333331,
+    "lon": -3.0000001
+  },
+  "Guelph": {
+    "lat": 43.5460516,
+    "lon": -80.2493276
+  },
+  "Large Magellanic Cloud": null,
+  "Staten Island": {
+    "lat": 40.5834557,
+    "lon": -74.1496048
+  },
+  "Palm Springs": {
+    "lat": 33.8246269,
+    "lon": -116.540303
+  },
+  "Mount Everest": {
+    "lat": 27.9880614,
+    "lon": 86.92521
+  },
+  "New Haven": {
+    "lat": 41.3082138,
+    "lon": -72.9250518
+  },
+  "Kyiv": {
+    "lat": 50.4500336,
+    "lon": 30.5241361
+  },
+  "Amherst County": {
+    "lat": 37.5997548,
+    "lon": -79.1483701
+  },
+  "Glasgow": {
+    "lat": 55.861155,
+    "lon": -4.2501687
+  },
+  "Jacksonville": {
+    "lat": 30.3321838,
+    "lon": -81.655651
+  },
+  "Southeast Asia": {
+    "lat": -8.7287308,
+    "lon": 115.2365646
+  },
+  "Jaljulia": {
+    "lat": 32.152285,
+    "lon": 34.9536543
+  },
+  "Lisbon": {
+    "lat": 38.7077507,
+    "lon": -9.1365919
+  },
+  "York": {
+    "lat": 53.9656578,
+    "lon": -1.0743052
+  },
+  "Kentucky": {
+    "lat": 37.5726028,
+    "lon": -85.1551411
+  },
+  "Niassa": {
+    "lat": -13.0638577,
+    "lon": 36.4669964
+  },
+  "North Korea": {
+    "lat": 40.3736611,
+    "lon": 127.0870417
+  },
+  "Kyiv Oblast": {
+    "lat": 50.178595,
+    "lon": 30.4924884
+  },
+  "Budapest": {
+    "lat": 47.4978789,
+    "lon": 19.0402383
+  },
+  "Poland": {
+    "lat": 52.215933,
+    "lon": 19.134422
+  },
+  "Sillamae": {
+    "lat": 59.4034594,
+    "lon": 27.7291939
+  },
+  "Tepatitlan": {
+    "lat": 20.8151477,
+    "lon": -102.758809
+  },
+  "Pacific Ocean": {
+    "lat": -0.703107,
+    "lon": -120.9375
+  },
+  "Atlanta": {
+    "lat": 33.7544657,
+    "lon": -84.3898151
+  },
+  "Cincinnati": {
+    "lat": 39.1014537,
+    "lon": -84.5124602
+  },
+  "Stamford": {
+    "lat": 41.0534302,
+    "lon": -73.5387341
+  },
+  "Framingham": {
+    "lat": 42.2773177,
+    "lon": -71.4165905
+  },
+  "Lake Superior": {
+    "lat": 47.7144346,
+    "lon": -88.2116356
+  },
+  "Tokyo": {
+    "lat": 35.6768601,
+    "lon": 139.7638947
+  },
+  "Boulder": {
+    "lat": 40.0149856,
+    "lon": -105.270545
+  },
+  "Portland": {
+    "lat": 45.5202471,
+    "lon": -122.674194
+  },
+  "Rio de Janeiro": {
+    "lat": -22.9110137,
+    "lon": -43.2093727
+  },
+  "St. Louis": {
+    "lat": 38.6280278,
+    "lon": -90.1910154
+  },
+  "Oman": {
+    "lat": 21.0000287,
+    "lon": 57.0036901
+  },
+  "Munich": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "Williamsburg": {
+    "lat": 37.2708788,
+    "lon": -76.7074042
+  },
+  "Moon": {
+    "lat": 58.5959044,
+    "lon": 23.2196461
+  },
+  "Ann Arbor": {
+    "lat": 42.2813722,
+    "lon": -83.7484616
+  },
+  "Australia": {
+    "lat": -24.7761086,
+    "lon": 134.755
+  },
+  "Netherlands": {
+    "lat": 52.2434979,
+    "lon": 5.6343227
+  },
+  "Tiangong space station": null,
+  "Namibia": {
+    "lat": -23.2335499,
+    "lon": 17.3231107
+  },
+  "Axial Seamount": null,
+  "Kachin State": {
+    "lat": 26.0207656,
+    "lon": 97.4919258
+  },
+  "southern Minnesota": {
+    "lat": 44.7968816,
+    "lon": -95.1672965
+  },
+  "Romania": {
+    "lat": 45.9852129,
+    "lon": 24.6859225
+  },
+  "Muncie": {
+    "lat": 40.1936892,
+    "lon": -85.3865271
+  },
+  "Bonaire": {
+    "lat": 12.167,
+    "lon": -68.2876439
+  },
+  "Sumy": {
+    "lat": 50.9119775,
+    "lon": 34.8027723
+  },
+  "San Diego": {
+    "lat": 32.7174202,
+    "lon": -117.162772
+  },
+  "Scotland": {
+    "lat": 56.7861112,
+    "lon": -4.1140518
+  },
+  "Brooklyn": {
+    "lat": 40.6526006,
+    "lon": -73.9497211
+  },
+  "Paso Robles": {
+    "lat": 35.6262618,
+    "lon": -120.6901319
+  },
+  "OECD and EU countries": null,
+  "Zapopan": {
+    "lat": 20.7211203,
+    "lon": -103.3913671
+  },
+  "Grand Rapids": {
+    "lat": 42.9632425,
+    "lon": -85.6678639
+  },
+  "Adampur": {
+    "lat": 29.2538851,
+    "lon": 75.501743
+  },
+  "Hokkaido": {
+    "lat": 43.4519831,
+    "lon": 142.8197834
+  },
+  "San Marcos": {
+    "lat": 29.8826436,
+    "lon": -97.9405828
+  },
+  "Crossville": {
+    "lat": 35.949684,
+    "lon": -85.0274835
+  },
+  "North and South America": {
+    "lat": 25.6748208,
+    "lon": -80.3762275
+  },
+  "Seattle": {
+    "lat": 47.6038321,
+    "lon": -122.330062
+  },
+  "South Africa": {
+    "lat": -28.8166236,
+    "lon": 24.991639
+  },
+  "Newark Liberty International Airport": {
+    "lat": 40.689064,
+    "lon": -74.1772549
+  },
+  "Guadalajara": {
+    "lat": 20.6720375,
+    "lon": -103.338396
+  },
+  "Osaka": {
+    "lat": 34.6937569,
+    "lon": 135.5014539
+  },
+  "Kharkiv Oblast": {
+    "lat": 49.8299582,
+    "lon": 36.3788957
+  },
+  "Denver": {
+    "lat": 39.7392364,
+    "lon": -104.984862
+  },
+  "George VI Ice Shelf": {
+    "lat": -71.9695143,
+    "lon": -67.5780864
+  },
+  "Albania": {
+    "lat": 5.7587654,
+    "lon": -73.9151617
+  },
+  "Sierra National Forest": {
+    "lat": 37.2820648,
+    "lon": -119.1499896
+  },
+  "Plano": {
+    "lat": 33.0136764,
+    "lon": -96.6925096
+  },
+  "Hong Kong": {
+    "lat": 22.350627,
+    "lon": 114.1849161
+  },
+  "Memphis": {
+    "lat": 35.1460249,
+    "lon": -90.0517638
+  },
+  "Vandenberg Space Force Base": {
+    "lat": 34.7088437,
+    "lon": -120.5447422
+  },
+  "Nevada's 2nd Congressional District": null,
+  "Chester County": {
+    "lat": 39.9829308,
+    "lon": -75.7652424
+  },
+  "Jefferson City": {
+    "lat": 38.577359,
+    "lon": -92.1724265
+  },
+  "Yellowstone National Park": {
+    "lat": 44.6200885,
+    "lon": -110.5606893
+  },
+  "Worldwide": {
+    "lat": -33.8938107,
+    "lon": 151.2621478
+  },
+  "Paris": {
+    "lat": 48.8534951,
+    "lon": 2.3483915
+  },
+  "Mansfield": {
+    "lat": 40.75839,
+    "lon": -82.5154471
+  },
+  "Isle of Skye": {
+    "lat": 57.3630079,
+    "lon": -6.3021737
+  },
+  "Oregon": {
+    "lat": 43.9792797,
+    "lon": -120.737257
+  },
+  "Starke": {
+    "lat": 41.2753164,
+    "lon": -86.6457565
+  },
+  "Leo II": {
+    "lat": -3.4605375,
+    "lon": 114.8445696
+  },
+  "Central New York": {
+    "lat": -25.3490357,
+    "lon": -57.5099278
+  },
+  "Europe": {
+    "lat": 51.0,
+    "lon": 10.0
+  },
+  "Louisiana": {
+    "lat": 30.8703881,
+    "lon": -92.007126
+  },
+  "Israel": {
+    "lat": 30.8124247,
+    "lon": 34.8594762
+  },
+  "Moon south pole": null,
+  "County Antrim": {
+    "lat": 54.8647255,
+    "lon": -6.1436379
+  },
+  "Big Bend National Park": {
+    "lat": 29.3332483,
+    "lon": -103.1941721
+  },
+  "Beta Pictoris b": null,
+  "Starbase Texas": {
+    "lat": 25.9901362,
+    "lon": -97.1838262
+  },
+  "San Antonio": {
+    "lat": 29.4246002,
+    "lon": -98.4951405
+  },
+  "Harris County": {
+    "lat": 29.8119769,
+    "lon": -95.3741247
+  },
+  "Uttar Pradesh": {
+    "lat": 27.1303344,
+    "lon": 80.859666
+  },
+  "U.S.-Mexico border": {
+    "lat": 32.5446973,
+    "lon": -117.029136
+  },
+  "Amsterdam": {
+    "lat": 52.3730796,
+    "lon": 4.8924534
+  },
+  "Alaska": {
+    "lat": 64.4459613,
+    "lon": -149.680909
+  },
+  "Latvia": {
+    "lat": 56.8406494,
+    "lon": 24.7537645
+  },
+  "Qatar": {
+    "lat": 25.3336984,
+    "lon": 51.2295295
+  },
+  "West Bank": {
+    "lat": 44.9719278,
+    "lon": -93.2463486
+  },
+  "Pacific region": {
+    "lat": 3.6775593,
+    "lon": 31.2969315
+  },
+  "eastern North America": {
+    "lat": 37.8735253,
+    "lon": -122.2383478
+  },
+  "Murgon": {
+    "lat": -26.2441735,
+    "lon": 151.936075
+  },
+  "HD 181327": {
+    "lat": 22.3390401,
+    "lon": 77.1015504
+  },
+  "Barcelona": {
+    "lat": 41.3825802,
+    "lon": 2.177073
+  },
+  "Queens": {
+    "lat": 40.7135078,
+    "lon": -73.8283132
+  },
+  "Innsbruck": {
+    "lat": 47.2654296,
+    "lon": 11.3927685
+  },
+  "Atlantic Ocean": {
+    "lat": 13.581921,
+    "lon": -38.320312
+  },
+  "southern Africa": {
+    "lat": 37.8750917,
+    "lon": -122.2375211
+  },
+  "Venus": {
+    "lat": 32.4334742,
+    "lon": -97.1025077
+  },
+  "European waters": {
+    "lat": 12.8883517,
+    "lon": 80.0941323
+  },
+  "Pranhita-Godavari Basin": null,
+  "Appalachian Mountains": {
+    "lat": 35.75,
+    "lon": -82.25
+  },
+  "Nysa": {
+    "lat": 50.4738029,
+    "lon": 17.3324733
+  },
+  "Gaines County": {
+    "lat": 32.7044935,
+    "lon": -102.6220553
+  },
+  "Vienna": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "Southern United States": {
+    "lat": 31.9909783,
+    "lon": -102.0712974
+  },
+  "Persian Gulf": {
+    "lat": 27.2381259,
+    "lon": 51.1972311
+  },
+  "Houston": {
+    "lat": 29.7589382,
+    "lon": -95.3676974
+  },
+  "Milky Way galactic center": null,
+  "Warren": {
+    "lat": 41.8119602,
+    "lon": -79.2654452
+  },
+  "Budaka": {
+    "lat": 1.065819,
+    "lon": 34.0208931
+  },
+  "Cape Canaveral": {
+    "lat": 28.4513556,
+    "lon": -80.5283059
+  },
+  "Port of Los Angeles": {
+    "lat": 33.7419505,
+    "lon": -118.2612367
+  },
+  "Dallas": {
+    "lat": 32.7762719,
+    "lon": -96.7968559
+  },
+  "low Earth orbit": null,
+  "Messel": {
+    "lat": 49.9369643,
+    "lon": 8.7449232
+  },
+  "North America": {
+    "lat": 51.0000002,
+    "lon": -109.0
+  },
+  "Northeast Minnesota": {
+    "lat": 45.0157576,
+    "lon": -93.2512895
+  },
+  "Leiden": {
+    "lat": 52.1594747,
+    "lon": 4.4908843
+  },
+  "Lehigh Valley": {
+    "lat": 42.8796134,
+    "lon": -76.9851524
+  },
+  "Global": {
+    "lat": 55.702215,
+    "lon": 12.5592485
+  },
+  "Missouri": {
+    "lat": 38.7604815,
+    "lon": -92.5617875
+  },
+  "England and Wales": {
+    "lat": 51.5694737,
+    "lon": -2.6652521
+  },
+  "Kharkiv": {
+    "lat": 49.9923181,
+    "lon": 36.2310146
+  },
+  "Spain": {
+    "lat": 39.3260685,
+    "lon": -4.8379791
+  },
+  "Stilfontein": {
+    "lat": -26.842989,
+    "lon": 26.783249
+  },
+  "Vietnam": {
+    "lat": 15.9266657,
+    "lon": 107.9650855
+  },
+  "northern Gaza": {
+    "lat": 32.049507,
+    "lon": 34.7598525
+  },
+  "Heidelberg": {
+    "lat": 49.4093582,
+    "lon": 8.694724
+  },
+  "El Salvador": {
+    "lat": 13.8000382,
+    "lon": -88.9140683
+  },
+  "Khan Younis": {
+    "lat": 31.3443293,
+    "lon": 34.3095897
+  },
+  "Saint-Laurent-du-Maroni": {
+    "lat": 3.9439621,
+    "lon": -53.7357694
+  },
+  "Fremont": {
+    "lat": 37.5482697,
+    "lon": -121.988571
+  },
+  "Camden": {
+    "lat": 39.9448402,
+    "lon": -75.1198911
+  },
+  "New Brunswick": {
+    "lat": 46.500283,
+    "lon": -66.750183
+  },
+  "Dundalk": {
+    "lat": 54.0046033,
+    "lon": -6.4008879
+  },
+  "Taipei": {
+    "lat": 25.0375198,
+    "lon": 121.5636796
+  },
+  "Urbana-Champaign": {
+    "lat": 40.1117174,
+    "lon": -88.207301
+  },
+  "Crestone": {
+    "lat": 37.995443,
+    "lon": -105.6991929
+  },
+  "Jezero Crater": null,
+  "Starkville": {
+    "lat": 33.4638745,
+    "lon": -88.8152074
+  },
+  "Tucson": {
+    "lat": 32.2228765,
+    "lon": -110.974847
+  },
+  "Middle East": {
+    "lat": 39.3014159,
+    "lon": -76.5888477
+  },
+  "Milky Way": {
+    "lat": -7.1280388,
+    "lon": 52.7448393
+  },
+  "Interstellar space": null,
+  "Solnhofen": {
+    "lat": 48.8966726,
+    "lon": 10.9977662
+  },
+  "Little Dome C": {
+    "lat": 38.5551214,
+    "lon": -121.213525
+  },
+  "Myanmar": {
+    "lat": 17.1750495,
+    "lon": 95.9999652
+  },
+  "South Pacific": {
+    "lat": 7.0654996,
+    "lon": 125.5133981
+  },
+  "Antarctica": {
+    "lat": -72.8438691,
+    "lon": 0.0
+  },
+  "Yaquina Bay": {
+    "lat": 44.6277564,
+    "lon": -124.0451678
+  },
+  "Uturuncu": {
+    "lat": -22.2643689,
+    "lon": -67.1869214
+  },
+  "Afar": {
+    "lat": 11.7108206,
+    "lon": 41.0330866
+  },
+  "Nilpena": {
+    "lat": -30.9737556,
+    "lon": 138.2103424
+  },
+  "Connecticut": {
+    "lat": 41.6500201,
+    "lon": -72.7342163
+  },
+  "Indiana": {
+    "lat": 40.3270127,
+    "lon": -86.1746933
+  },
+  "Rhode Island": {
+    "lat": 41.7962409,
+    "lon": -71.5992372
+  },
+  "Davis": {
+    "lat": 40.7474784,
+    "lon": -92.3965311
+  },
+  "Santa Barbara": {
+    "lat": 34.4221319,
+    "lon": -119.702667
+  },
+  "Wimberley": {
+    "lat": 29.9976807,
+    "lon": -98.0987896
+  },
+  "Ottawa": {
+    "lat": 45.4208777,
+    "lon": -75.6901106
+  },
+  "Arizona": {
+    "lat": 34.395342,
+    "lon": -111.763275
+  },
+  "Africa": {
+    "lat": 11.5024338,
+    "lon": 17.7578122
+  },
+  "Aarhus": {
+    "lat": 56.1496278,
+    "lon": 10.2134046
+  },
+  "Papua New Guinea": {
+    "lat": -5.6816069,
+    "lon": 144.2489081
+  },
+  "Coventry": {
+    "lat": 52.4081812,
+    "lon": -1.510477
+  },
+  "Charlottesville": {
+    "lat": 38.029306,
+    "lon": -78.4766781
+  },
+  "Surrey": {
+    "lat": 51.2715316,
+    "lon": -0.3414524
+  },
+  "Rochester": {
+    "lat": 43.157285,
+    "lon": -77.615214
+  },
+  "Germany": {
+    "lat": 51.1638175,
+    "lon": 10.4478313
+  }
+}
